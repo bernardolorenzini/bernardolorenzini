@@ -3,6 +3,32 @@
 
 Software Developer | Software Quality Assurance (SQA) | Avionics Industry
 
+[<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">]	
+
+[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">]	
+ 
+[<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">]
+
+[<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">]	
+
+[<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">] 
+
+[<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">] 
+
+[<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">] 
+
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">] 	
+
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">]  	
+
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">]   
+
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">]   	
+
+[<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">]    
+
+    
+
 🛩️ About Me 🛩️
 
 Hello, I'm Bernardo Lorenzini, a highly motivated Software Quality Assurance (SQA) professional with a passion for ensuring the utmost safety and reliability in avionics software. With 1 year of experience in the avionics industry but a life time with aviation passion. I take pride in contributing to the development of cutting-edge software systems that power the aerospace world.
