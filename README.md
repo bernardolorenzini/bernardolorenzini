@@ -1,7 +1,5 @@
-### Hi there 👋
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-Bernardo Lorenzini
+### Bernardo Lorenzini
 
 Software Developer | Software Quality Assurance (SQA) | Avionics Industry
 
@@ -34,7 +32,7 @@ I am always eager to connect with like-minded professionals and aviation enthusi
 
 ✉️ Contact ✉️
 
-lorenzinibernardo@gmail.com
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](lorenzinibernardo@gmail.com) lorenzinibernardo@gmail.com
 
 
 Thank you for visiting my profile, and I look forward to connecting with you!
@@ -43,4 +41,5 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=bernardolorenzini)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bernardolorenzini/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bernlore/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bernardolorenzini/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bernlore/) 
