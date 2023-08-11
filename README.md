@@ -10,7 +10,7 @@ Software Developer | Software Quality Assurance (SQA) | Avionics Industry
 
 🛩️ About Me 🛩️
 
-Hello, I'm Bernardo Lorenzini, a highly motivated Software Quality Assurance (SQA) professional with a passion for ensuring the utmost safety and reliability in avionics software. With 1 year of experience in the avionics industry but a life time with aviation passion. I take pride in contributing to the development of cutting-edge software systems that power the aerospace world.
+Hello, I'm Bernardo Lorenzini, a highly motivated Software Quality Assurance (SQA) devoted for Software Development, professional with a passion for ensuring the utmost safety and reliability in software and in avionics. With 1 year of experience in the avionics industry but a life time with aviation passion. I take pride in contributing to the development of cutting-edge software systems that power the aerospace world.
 
 ✈️ Experience and Expertise ✈️
 
